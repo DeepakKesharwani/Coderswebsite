@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Coderswebsite/static/css/main.c0f5e2c5.chunk.css",
+    "main.js": "/Coderswebsite/static/js/main.06b1503e.chunk.js",
+    "main.js.map": "/Coderswebsite/static/js/main.06b1503e.chunk.js.map",
+    "runtime-main.js": "/Coderswebsite/static/js/runtime-main.e577bfa6.js",
+    "runtime-main.js.map": "/Coderswebsite/static/js/runtime-main.e577bfa6.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Coderswebsite/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.11879129.chunk.js": "/Coderswebsite/static/js/2.11879129.chunk.js",
+    "static/js/2.11879129.chunk.js.map": "/Coderswebsite/static/js/2.11879129.chunk.js.map",
+    "index.html": "/Coderswebsite/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Coderswebsite/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.c0f5e2c5.chunk.css.map": "/Coderswebsite/static/css/main.c0f5e2c5.chunk.css.map",
+    "static/js/2.11879129.chunk.js.LICENSE.txt": "/Coderswebsite/static/js/2.11879129.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/Coderswebsite/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/Coderswebsite/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/Coderswebsite/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/Coderswebsite/static/media/hero-img.53f1b546.png",
+    "static/media/img2.d12e2a27.svg": "/Coderswebsite/static/media/img2.d12e2a27.svg",
+    "static/media/marketing.f629aa39.jpg": "/Coderswebsite/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/Coderswebsite/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/Coderswebsite/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e577bfa6.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.11879129.chunk.js",
+    "static/css/main.c0f5e2c5.chunk.css",
+    "static/js/main.06b1503e.chunk.js"
+  ]
+}
